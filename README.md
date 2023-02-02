@@ -2,7 +2,7 @@
 
 Als Softwareentwickler betreuen Sie den Zirkus GNIE. Dieser möchte ein umfangreiches Softwaresystem zur Verwaltung der Aufführungen des Zirkus
 
-Erstellen Sie eine JEE-Anwendung mit REST-Endpoints und JPA-Persistierung mit folgenden Tabellen:
+Erstellen Sie eine Spring Boot mit REST-Endpoints und JPA-Persistierung mit folgenden Tabellen:
 
 - Show: Datum und Uhrzeit des Beginns der Show, Titel der Show (zB Abendvorstellung)
 - Program: Show, Act
