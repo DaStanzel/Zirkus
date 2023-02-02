@@ -20,7 +20,7 @@ Ein Act weiß, welche Members er hat, Jeder Member kann nur in einem Act mitmach
 
 ## Aufgabenstellung:
 
-a. Erstellen Sie die Entitäten und Fassaden für JPA. Wählen Sie notwendige Attribute, aber nicht zu viele.
+a. Erstellen Sie die Entitäten und Controller mit JPA. Wählen Sie notwendige Attribute, aber nicht zu viele.
 
 b. Befüllen Sie das System mit Daten
 
@@ -38,4 +38,4 @@ d. Generieren Sie ein Klassendiagramm und speichern sie es als CLD.png in das ro
 
 e. Generieren Sie ein Entity-Relationship-Diagram und speichern sie es als ERD.png in das root Ihres Projektes
 
-f. ZUSATZPUNKTE: Testen Sie mit JUnit, ob die CRUD-Funktionalität für eine bidirektionale Beziehung korrekt funktioniert
+f. Testen Sie mit JUnit, ob die CRUD-Funktionalität für eine bidirektionale Beziehung korrekt funktioniert
